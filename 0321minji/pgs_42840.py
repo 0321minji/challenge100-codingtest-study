@@ -1,5 +1,6 @@
 def solution(answers):
     answer = []
+    
     #각 규칙 배열 선언
     one=[1,2,3,4,5]
     two=[2,1,2,3,2,4,2,5]
